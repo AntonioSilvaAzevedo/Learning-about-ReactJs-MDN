@@ -11,6 +11,7 @@
 # :barber: MDN React
 
 project carried out with the concepts of React using the MDN!
+it consists of adding, editing and deleting tasks. Using filters to display tasks.
 
 Running the Application:
 
